@@ -1,0 +1,26 @@
+.appwatsapp {
+    position: fixed;
+    right: 26px;
+    bottom: 50px;
+    width: 50px;
+    z-index: 1050;
+  }
+  
+  .appwatsapp img {
+    width: 100%;
+    height: auto;
+  }
+
+.face
+{
+  position:fixed;z-index:1050;right: 60px;top: 25em;
+  right: 26px;
+  bottom: 50px;
+  width: 50px;
+}
+
+.face img
+{
+  width: 100%;
+  height: auto;
+}
